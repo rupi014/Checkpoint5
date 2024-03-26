@@ -69,6 +69,9 @@ else:
 Los condicionales en Python son una herramienta poderosa que permite que tus programas tomen decisiones basadas en si se cumplen o no ciertas condiciones. Dominar el uso de condicionales te permite escribir código más robusto y funcional.  
 
 
+---
+
+      
 <h3 align="center">¿Cuáles son los diferentes tipos de bucles en Python? ¿Por qué son útiles?</h3>  
 
 #### Introducción
@@ -163,6 +166,10 @@ Los bucles son útiles porque permiten automatizar tareas repetitivas sin tener 
 En resumen, los bucles son una herramienta fundamental en la programación que te permite repetir operaciones de manera eficiente y automatizada, lo que hace que tu código sea más eficiente y fácil de mantener.
 
 
+
+---
+
+      
 <h3 align="center">¿Qué es una lista por comprensión en Python?</h3>
 
 #### Introducción
@@ -213,6 +220,10 @@ cuadrados = [numero**2 for numero in numeros if numero % 2 == 0]
 Las listas por comprensión son una característica extremadamente útil en Python debido a su capacidad para simplificar y acortar el código mientras se mantiene la legibilidad y la eficiencia. Son una herramienta esencial en el kit de herramientas de todo programador de Python. Facilitan la escritura de código más limpio, más eficiente y más legible, lo que conduce a un desarrollo más rápido y menos propenso a errores.
   
 
+
+---
+
+      
 <h3 align="center">¿Qué es un argumento en Python?</h3>
 
 #### Introducción
@@ -254,6 +265,10 @@ saludar("Rubens")
 Los argumentos en Python son fundamentales para la creación de funciones flexibles y reutilizables. Al comprender cómo funcionan los argumentos posicionales, de palabra clave y predeterminados, puedes escribir funciones que sean más fáciles de usar y de mantener. Además, el uso adecuado de los argumentos puede mejorar la claridad y la legibilidad de tu código.
 
 
+
+---
+
+      
 <h3 align="center">¿Qué es una función Lambda en Python?</h3>
 
 #### Introducción
@@ -298,6 +313,10 @@ print(suma(3, 5))
 
 Las funciones lambda son una característica poderosa y útil en Python que te permite crear funciones anónimas de manera concisa y eficiente. Son ideales para situaciones donde necesitas una función rápida y simple sin la necesidad de definir una función completa con "def". Al comprender cómo funcionan las funciones lambda, puedes escribir código más limpio y más legible en Python.
 
+
+---
+
+      
 <h3 align="center">¿Qué es un paquete pip?</h3>
 
 #### Introducción
