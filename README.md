@@ -71,6 +71,8 @@ Los condicionales en Python son una herramienta poderosa que permite que tus pro
 
 <h3 align="center">¿Cuáles son los diferentes tipos de bucles en Python? ¿Por qué son útiles?</h3>  
 
+#### Introducción
+
 Los bucles son estructuras de control que nos permiten repetir un bloque de código varias veces. En Python, existen principalmente dos tipos de bucles: "for" y "while". Cada tipo de bucle tiene su propio propósito y es útil en diferentes situaciones, a continuación detallaremos ambos tipos.
 
 #### Bucle "for"
@@ -79,7 +81,7 @@ El bucle for se utiliza para iterar sobre una secuencia (como una lista, tupla, 
 
 ##### Sintaxis:
 
-Su sintaxis comienza con "for" seguido del nomnbre que queramos dar a los elementos de la secuencia, despues se usa "in" y el nombre de la variable que almacena la secuencia:
+Su sintaxis comienza con "for" seguido del nombre que queramos dar a los elementos de la secuencia, despues se usa "in" y el nombre de la variable que almacena la secuencia:
 
 ```
 for elemento in secuencia:
