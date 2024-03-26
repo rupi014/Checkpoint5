@@ -10,10 +10,12 @@ for word in words:
     
 def suma(a, b, c):
     return a + b + c
+print(suma(1, 2, 3))
 
 # Ejercicio 3
 
 suma = lambda a, b, c: a + b + c
+print(suma(1, 2, 3))
 
 # Ejercicio 4
 
